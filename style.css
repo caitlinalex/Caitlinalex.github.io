@@ -1,1 +1,12 @@
+body{
+	background-color:#ffffcc;
+}
 
+h1 {
+	font-family: 'Antonio', sans-serif;
+	color:#470076;
+	border-color: #367076;
+	border-width: 1px;
+	border-style: inset;
+
+}
